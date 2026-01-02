@@ -13,7 +13,7 @@
 
 | # | Date | Problem | Difficulty | Topic |
 |---|------|---------|------------|-------|
-| 1 | 2026-01-02 | Contains Duplicate | Easy | Arrays & Hashing |
+| 1 | 2026-01-01 | Contains Duplicate | Easy | Arrays & Hashing |
 | 2 | 2026-01-02 | Valid Palindrome | Easy | Two Pointers |
 
 ---
@@ -25,7 +25,7 @@
 
 ## 💡 Quick Stats
 
-- Easy: 3
+- Easy: 2
 - Medium: 0
 - Hard: 0
 
