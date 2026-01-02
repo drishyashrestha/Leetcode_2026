@@ -94,7 +94,7 @@ class LeetCodeTracker:
         # README template
         readme_content = f"""# 🚀 LeetCode Journey 2026
 
-**Goal:** Land a FAANG SWE Role  
+**Goal:** Consistent Practice Preps
 **Start Date:** January 1, 2026  
 
 ## 📊 Progress

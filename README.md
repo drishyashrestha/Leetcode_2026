@@ -1,6 +1,6 @@
 # 🚀 LeetCode Journey 2026
 
-**Goal:** Land a FAANG SWE Role  
+**Goal:** Consistent Practice Preps 
 **Start Date:** January 1, 2026  
 
 ## 📊 Progress
@@ -14,8 +14,7 @@
 | # | Date | Problem | Difficulty | Topic |
 |---|------|---------|------------|-------|
 | 1 | 2026-01-02 | Contains Duplicate | Easy | Arrays & Hashing |
-| 2 | 2026-01-02 | Contains Duplicate | Easy | Arrays & Hashing |
-| 3 | 2026-01-02 | Valid Palindrome | Easy | Two Pointers |
+| 2 | 2026-01-02 | Valid Palindrome | Easy | Two Pointers |
 
 ---
 
