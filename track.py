@@ -114,7 +114,7 @@ class LeetCodeTracker:
 ## 🎯 Current Focus
 
 **Week 1-2:** Arrays & Hashing  
-**Next Goal:** Solve 15 array & hash problems
+**Next Goal:** Neetcode Blind 75
 
 ## 💡 Quick Stats
 

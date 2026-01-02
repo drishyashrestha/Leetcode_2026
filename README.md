@@ -1,34 +1,37 @@
 # 🚀 LeetCode Journey 2026
 
-**Goal:** Consistent Practice Preps 
+**Goal:** Consistent Practice Preps
 **Start Date:** January 1, 2026  
 
 ## 📊 Progress
 
-- **Total Solved:** 2 problems
-- **Current Streak:** 1 days 🔥
+- **Total Solved:** 5 problems
+- **Current Streak:** 2 days 🔥
 - **Last Solved:** 2026-01-02
 
 ## 📝 Problems Solved
 
 | # | Date | Problem | Difficulty | Topic |
 |---|------|---------|------------|-------|
-| 1 | 2026-01-01 | Contains Duplicate | Easy | Arrays & Hashing |
+| 1 | 2026-01-02 | Contains Duplicate | Easy | Arrays & Hashing |
 | 2 | 2026-01-02 | Valid Palindrome | Easy | Two Pointers |
+| 3 | 2026-01-02 | Valid Anagram | Easy | Arrays & Hashing |
+| 4 | 2026-01-02 | Group Anagrams | Medium | Arrays & Hashing |
+| 5 | 2026-01-02 | Top K Frequent | Medium | Arrays & Hashing |
 
 ---
 
 ## 🎯 Current Focus
 
 **Week 1-2:** Arrays & Hashing  
-**Next Goal:** Solve 15 array & hash problems
+**Next Goal:** Neetcode Blind 75
 
 ## 💡 Quick Stats
 
-- Easy: 2
-- Medium: 0
+- Easy: 3
+- Medium: 2
 - Hard: 0
 
 ---
 
-*Last updated: 2026-01-02 00:32*
+*Last updated: 2026-01-02 17:11*
