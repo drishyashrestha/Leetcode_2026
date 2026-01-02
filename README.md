@@ -5,15 +5,17 @@
 
 ## 📊 Progress
 
-- **Total Solved:** 0 problems
-- **Current Streak:** 0 days 🔥
-- **Last Solved:** N/A
+- **Total Solved:** 3 problems
+- **Current Streak:** 1 days 🔥
+- **Last Solved:** 2026-01-02
 
 ## 📝 Problems Solved
 
 | # | Date | Problem | Difficulty | Topic |
 |---|------|---------|------------|-------|
-| - | - | No problems solved yet | - | - |
+| 1 | 2026-01-02 | Contains Duplicate | Easy | Arrays & Hashing |
+| 2 | 2026-01-02 | Contains Duplicate | Easy | Arrays & Hashing |
+| 3 | 2026-01-02 | Valid Palindrome | Easy | Two Pointers |
 
 ---
 
@@ -24,10 +26,10 @@
 
 ## 💡 Quick Stats
 
-- Easy: 0
+- Easy: 3
 - Medium: 0
 - Hard: 0
 
 ---
 
-*Last updated: 2026-01-01*
+*Last updated: 2026-01-02 00:32*

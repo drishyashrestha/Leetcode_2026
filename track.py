@@ -16,7 +16,7 @@ class LeetCodeTracker:
     def load_data(self):
         """Load progress from JSON"""
         if os.path.exists(self.progress_file):
-            with open(self.progress_file, 'r') as f:
+            with open(self.progress_file, 'r', encoding='utf-8') as f:
                 self.data = json.load(f)
         else:
             self.data = {
@@ -28,7 +28,7 @@ class LeetCodeTracker:
     
     def save_data(self):
         """Save progress to JSON"""
-        with open(self.progress_file, 'w') as f:
+        with open(self.progress_file, 'w', encoding='utf-8') as f:
             json.dump(self.data, f, indent=2)
     
     def add_problem(self, name, difficulty, topic):
@@ -127,7 +127,7 @@ class LeetCodeTracker:
 *Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M')}*
 """
         
-        with open(self.readme_file, 'w') as f:
+        with open(self.readme_file, 'w', encoding='utf-8') as f:
             f.write(readme_content)
         
         print("📝 README.md automatically updated!")
