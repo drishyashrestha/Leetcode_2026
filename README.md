@@ -5,7 +5,7 @@
 
 ## 📊 Progress
 
-- **Total Solved:** 3 problems
+- **Total Solved:** 2 problems
 - **Current Streak:** 1 days 🔥
 - **Last Solved:** 2026-01-02
 
