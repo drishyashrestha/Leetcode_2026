@@ -5,8 +5,9 @@
 
 ## 📊 Progress
 
-- **Total Solved:** 5 problems
-
+- **Total Solved:** 6 problems
+- **Current Streak:** 1 days 🔥
+- **Last Solved:** 2026-01-09
 
 ## 📝 Problems Solved
 
@@ -17,6 +18,7 @@
 | 3 | 2026-01-02 | Valid Anagram | Easy | Arrays & Hashing |
 | 4 | 2026-01-02 | Group Anagrams | Medium | Arrays & Hashing |
 | 5 | 2026-01-02 | Top K Frequent | Medium | Arrays & Hashing |
+| 6 | 2026-01-09 | Longest Substring | Medium | Sliding Window |
 
 ---
 
@@ -28,9 +30,9 @@
 ## 💡 Quick Stats
 
 - Easy: 3
-- Medium: 2
+- Medium: 3
 - Hard: 0
 
 ---
 
-*Last updated: 2026-01-02 17:11*
+*Last updated: 2026-01-09 00:02*
